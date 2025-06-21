@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently learning about **AWS,Docker & K8s**
+- 🔭 I'm currently learning about **AWS**
 - ❤️ Love to solve DSA problems.
 - 🚀 Building scalable full-stack applications & diving deep into **Web3**
 - 🧠 Always learning and up for a new challenge
